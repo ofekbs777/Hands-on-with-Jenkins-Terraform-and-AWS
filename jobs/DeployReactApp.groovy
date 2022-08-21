@@ -1,6 +1,6 @@
 pipelineJob("Deploy-React-App"){
 
-        description("Deploys a React web application to AWEep(5)
+        description("Deploys a React web application to AWEep(5))
 
                 numToKeep(20)
 
