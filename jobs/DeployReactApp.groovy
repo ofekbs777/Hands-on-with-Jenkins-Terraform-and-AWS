@@ -36,7 +36,7 @@ pipelineJob("Destroy-React-App"){
     }
     concurrentBuild(allowConcurrentBuild = false)
     parameters {
-      stringParam("UNIQUE_ANIMAL_IDENTIFIER", defaultValue = "changeme", description = "Your unique animal identifier for this playground!")
+      stringParam("ofek", defaultValue = "changeme", description = "45684555")
     }
     definition {
     cpsScm {
